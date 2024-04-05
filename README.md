@@ -1,14 +1,15 @@
 # SSH Brute Force Tool
 
 This Python script is designed for conducting SSH brute force attacks on target systems. It attempts to gain unauthorized access to SSH servers by trying different combinations of usernames and passwords from provided lists.
+Once access is gained, the script provides an interactive shell through which remote commands can be executed on the target system.
 
 ## Installation
 
 1. Clone the repository:
 
 2. Install dependencies:
-3. 
-    pip install paramiko
+
+pip install paramiko
    
 ## Usage
 
