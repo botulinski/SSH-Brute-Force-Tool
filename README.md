@@ -20,7 +20,7 @@ pip install paramiko
 
 2. Run the script:
 
-    python ssh_brute_force.py
+    python SSH-Brute-Force-Tool.py
 
 3. Follow the on-screen instructions to execute the SSH brute force attack.
 
